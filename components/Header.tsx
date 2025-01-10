@@ -12,7 +12,7 @@ function Header() {
       </Head>
       <div className="  flex items-center gap-2 font-medium tracking-[4px]">
         <IoIosGlobe className=" text-xl" />
-        Trust me
+        Discover me
       </div>
       <ul className=" flex flex-wrap items-center gap-3 text-[11px] md:gap-10">
         {menus.map((menu, index) => {
